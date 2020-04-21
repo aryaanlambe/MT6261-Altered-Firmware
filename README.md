@@ -1,4 +1,6 @@
 # MT6261-Altered-Firmware
+**WARNING:** Write-up incomplete. 
+
 Altered firmware files for specific MT6261-based Chinese smartwatches (non-android)
 
 Everything written here is based experiences I had while working with the MT6261 platform.
